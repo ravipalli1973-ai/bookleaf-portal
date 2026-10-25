@@ -20,4 +20,4 @@ export default function App() {
       <MainApp />
     </AuthProvider>
   );
-}
+} 
