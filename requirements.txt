@@ -1,0 +1,13 @@
+﻿fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic[email]
+email-validator
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
+python-dotenv
+openai
+pydantic-settings
+pytest
+httpx
