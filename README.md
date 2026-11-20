@@ -53,3 +53,5 @@ The login screen provides one-click quick-fill buttons for instant review:
 1. Navigate to the backend directory:
    ```bash
    cd backend
+
+- Added author book filtering on author-dashboard (Closes #1)
